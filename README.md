@@ -8,7 +8,7 @@ The game is structured using the Model-View-Controller (MVC) design pattern. The
 
 ## How to Play
 
-Use your mouse to move the space rocket and avoid the asteroids, change the laser beam color with ***space bar***. The rocket fires a laser beam automatically which can be used to destroy the asteroids. Whenever the laser beam and the asteroid collide given that they have the same color, you will earn points. The game is over when the rocket collides with an asteroid. Good luck!
+Use your mouse to move the space rocket and hit the asteroids with the laser beam, change the laser beam color with ***space bar***. The rocket fires a laser beam automatically which can be used to destroy the asteroids. Whenever the laser beam and the asteroid collide given that they have the same color, you will earn points. The game is over after 25 seconds. Good luck!
 
 ## Installations and Dependencies
 
